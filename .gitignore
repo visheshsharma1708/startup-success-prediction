@@ -1,0 +1,32 @@
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Hidden system files (especially for Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Environment or virtual environment folders
+venv/
+env/
+
+# Large data files
+*.csv
+*.xlsx
+*.zip
+
+# Log files or temp files
+*.log
+*.tmp
+
+# VSCode or IDE settings
+.vscode/
+.idea/
+
+# Ignore secrets (if accidentally added)
+*.env
+*.key
+
